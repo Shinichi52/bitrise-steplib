@@ -190,7 +190,7 @@ inputs:
     value_options:
     - "yes"
     - "no"
-  update_deliver: "yes"
+  update_deliver: "no"
 - opts:
     description: The platform will be delivered to iTunes Connect.
     is_required: true
